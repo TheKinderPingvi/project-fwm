@@ -162,7 +162,7 @@
 
 ## Демо-видео работы проекта в COEX Clover 
 
-Видео
+https://github.com/user-attachments/assets/e80a603f-f477-4756-8346-c7ea6e7c6ed1
 
 ## Ссылки на презентацию проекта и дополнительные демо-видео
 Презентация проекта : https://docs.google.com/presentation/d/1Kt_c-mh5aDtu3cgAsipNGJ6uufmu0aIW/edit?usp=sharing&ouid=110369902751486092263&rtpof=true&sd=true<br>
