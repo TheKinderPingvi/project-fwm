@@ -5,7 +5,7 @@ import sys
 def main():
     rospy.init_node('mission_control_node', anonymous=True)
     print("In standby mode for 5 seconds", file=sys.stdout, flush=True)
-    rospy.sleep(10)
+    rospy.sleep(5)
     print("Test task finished successfully", file=sys.stdout, flush=True)
 
 if __name__ == '__main__':
