@@ -169,7 +169,7 @@
 https://github.com/user-attachments/assets/e80a603f-f477-4756-8346-c7ea6e7c6ed1
 
 ## Ссылки на презентацию проекта и дополнительные демо-видео
-Презентация проекта : https://docs.google.com/presentation/d/1Kt_c-mh5aDtu3cgAsipNGJ6uufmu0aIW/edit?usp=sharing&ouid=110369902751486092263&rtpof=true&sd=true<br>
+Презентация проекта : https://docs.google.com/presentation/d/1iyTR_QHo8RRDOhg7hDoMrNQ1GoAq94Ru/edit?usp=sharing&ouid=110369902751486092263&rtpof=true&sd=true<br>
 Дополнительные демо-видео (Google Диск) : https://drive.google.com/drive/folders/1NdRvFrYiuvG3dUTHJ8tiSM03M0uV2cbG?usp=sharing <br>
 
 
